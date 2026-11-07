@@ -6,8 +6,8 @@
 
 网页源码位于 docs/，GitHub Pages 从 main 分支的 /docs 目录发布。无需安装依赖或构建。
 
-安装包通过 Releases 发布，当前版本 v0.4.5。更换版本时修改 docs/index.html 的版本与下载链接，并更新文件大小和 SHA-256。
+安装包通过 Releases 发布，当前版本 v0.4.7。更换版本时修改 docs/index.html 的版本与下载链接，并更新文件大小和 SHA-256。
 
-SHA-256：773f6752945e8f7d9665580a913035c72fae0dfb023142ac25db12533f7dfe57
+SHA-256：78a7bf7f3a1df406bf98bdf4ee1a367bd29b2215e778827f32953b2631959a57
 
 本仓库仅包含官网，不包含桌面软件源码。
